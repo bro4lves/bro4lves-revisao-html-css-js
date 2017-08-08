@@ -1,0 +1,47 @@
+﻿body {
+  font-family : 'Arial';
+}
+
+img {
+  height : 250px;
+  width  : 300px;
+}
+
+.titulo {
+	text-align : center;
+}
+
+.produtos {
+  display : inline-block;
+  margin  : 5px;
+  margin-bottom : 20px;
+}
+
+.itemProduto {
+  display : inline-block;  
+}
+
+.cabecalho-rodape {
+	height : 70px;
+	background-color : brown;
+	color : white;
+	text-align : center;
+	line-height : 70px;
+	font-size : 20px;
+	font-weight : bold;	
+}
+
+.imagemLivro {
+  display : inline;
+  vertical-align : top;
+}
+
+.dadoLivro  {
+  display : block; 
+}
+
+.destaqueTituloLivro {
+  color : green;
+  font-weight: bold;
+  font-size: 1.5em;
+}
